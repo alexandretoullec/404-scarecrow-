@@ -40,18 +40,16 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see my demo at the following adress : https://cranky-cray-2db181.netlify.app/
+- Not much to tell first step using HTML and CSS for a concrete project
+- What have you learned/improved? building a little project from a to z
+- 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Only pure HTML and CSS
 
 ## Features
 

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Poppins:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Poppins:wght@100;400&family=Space+Mono:wght@700&display=swap');
+
+body{
+  font-family:Poppins;
+  padding: 3rem;
+}
+
+.header {
+
+font-family: Inconsolata;
+font-size: 24px;
+
+font-weight: 700;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-align: left;
+
+}
+
+.main {
+  
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.main__img {
+  height :40rem;
+  width:auto;  
+}
+
+
+.main__text__title {
+    font-size: 4rem;
+    font-family: space Mono;
+}
+
+.main__text__p {
+    font-family: space Mono;
+    font-size: 1.5rem;   
+    width : 70%;
+}
+
+.main__text__button {
+  margin-top: 2rem;  
+  background-color: black;
+  border: 50px;
+  color:white;
+  height: 4rem;
+  width: 14rem;
+
+}
+
+footer {
+  color: #BDBDBD;
+  text-align: center;
+}
+
+@media screen and (max-width : 600px) {
+
+    body{
+      font-family:Poppins;
+      margin:auto;
+      padding: 1rem;
+    }
+    .main{
+        
+        display:flex;
+        flex-direction: column;
+    }
+
+    .main__text__title {
+        font-size: 3rem;
+        font-family: space Mono;
+    }
+
+    .main__img {
+        height :auto;
+        
+      }
+
+}
